@@ -595,7 +595,7 @@
 	"tslint-react":"latest",
 	"errorhandler":"latest",
 	"blessed":"latest",
-	"electron":"latest",
+	"electron":"28.2.6",
 	"eslint-plugin-jest":"latest",
 	"bytes":"latest",
 	"deasync":"latest",
