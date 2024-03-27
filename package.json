@@ -5,7 +5,7 @@
 	"request":"latest",
 	"commander":"latest",
 	"react":"latest",
-	"express":"latest",
+	"express":"4.19.2",
 	"debug":"latest",
 	"async":"latest",
 	"fs-extra":"latest",
