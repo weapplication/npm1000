@@ -942,7 +942,7 @@
 	"progress-bar-webpack-plugin":"latest",
 	"left-pad":"latest",
 	"stylelint-order":"latest",
-	"follow-redirects":"latest",
+	"follow-redirects":"1.15.6",
 	"stylelint-scss":"latest",
 	"koa-mount":"latest",
 	"busboy":"latest",
