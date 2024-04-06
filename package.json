@@ -39,7 +39,7 @@
 	"cheerio":"latest",
 	"rimraf":"latest",
 	"q":"latest",
-	"eslint":"latest",
+	"eslint":"9.0.0",
 	"css-loader":"latest",
 	"shelljs":"latest",
 	"dotenv":"latest",
