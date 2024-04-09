@@ -543,7 +543,7 @@
 	"jshint":"latest",
 	"vinyl-source-stream":"latest",
 	"send":"latest",
-	"mysql2":"latest",
+	"mysql2":"3.9.4",
 	"@types/jquery":"latest",
 	"user":"latest",
 	"slash":"latest",
