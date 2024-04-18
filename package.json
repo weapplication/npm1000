@@ -785,7 +785,7 @@
 	"mockjs":"latest",
 	"node.extend":"latest",
 	"connect-redis":"latest",
-	"babel-plugin-module-resolver":"latest",
+	"babel-plugin-module-resolver":"5.0.1",
 	"prompts":"latest",
 	"memoize-one":"latest",
 	"shell-quote":"latest",
