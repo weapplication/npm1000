@@ -85,7 +85,7 @@
 	"react-redux":"latest",
 	"@babel/core":"latest",
 	"@angular/http":"latest",
-	"ejs":"latest",
+	"ejs":"3.1.10",
 	"coffee-script":"latest",
 	"superagent":"latest",
 	"request-promise":"latest",
