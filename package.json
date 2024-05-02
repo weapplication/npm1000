@@ -976,7 +976,7 @@
 	"inert":"latest",
 	"jwt-simple":"latest",
 	"isobject":"latest",
-	"jsdoc":"latest",
+	"jsdoc":"4.0.3",
 	"element-resize-detector":"latest",
 	"react-datepicker":"latest",
 	"standard":"latest",
