@@ -538,7 +538,7 @@
 	"gulp-watch":"latest",
 	"redux-actions":"latest",
 	"lit-element":"latest",
-	"discord.js":"latest",
+	"discord.js":"14.15.1",
 	"gulp-less":"latest",
 	"jshint":"latest",
 	"vinyl-source-stream":"latest",
