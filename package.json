@@ -612,7 +612,7 @@
 	"@types/fs-extra":"latest",
 	"get-port":"latest",
 	"stylelint-config-standard":"latest",
-	"gulp-imagemin":"latest",
+	"gulp-imagemin":"9.1.0",
 	"husky":"latest",
 	"@babel/register":"latest",
 	"gulp-install":"latest",
