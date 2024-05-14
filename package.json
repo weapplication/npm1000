@@ -54,7 +54,7 @@
 	"object-assign":"latest",
 	"zone.js":"latest",
 	"babel-eslint":"latest",
-	"gulp":"latest",
+	"gulp":"5.0.0",
 	"gulp-util":"latest",
 	"file-loader":"latest",
 	"ora":"latest",
